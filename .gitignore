@@ -13,3 +13,7 @@ wheels/
 # Docker
 Dockerfile
 .dockerignore
+
+# Twilio
+.env
+*.env
